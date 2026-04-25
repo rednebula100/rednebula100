@@ -17,7 +17,7 @@
 
 ## 🛠️ My Projects
 
-- 🪐 **[Axiom](https://github.com/rednebula100/axiom-incremental)** - An incremental game based on orbital mechanics. 
+- 🪐 **[Axiom](https://github.com/rednebula100/axiom-incremental)** - an incremental game about numbers.
   [![Play](https://img.shields.io/badge/-Play%20Now-success?style=flat-square&logo=google-play&logoColor=white)](https://rednebula100.github.io/axiom-incremental/)
 
 - ☄️ **[EXOPLANET](https://github.com/rednebula100/EXOPLANET)** - WebGL-based celestial mechanics simulator.
