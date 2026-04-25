@@ -16,9 +16,16 @@
 </p>
 
 ## 🛠️ My Projects
-- 🪐 **[Axiom](https://github.com/rednebula100/Axiom)** - An incremental game based on orbital mechanics. 
-  [![Play](https://img.shields.io/badge/-Play%20Now-success?style=flat-square&logo=google-play&logoColor=white)](https://rednebula100.github.io/axiom-incremental)
-  
+
+- 🪐 **[Axiom](https://github.com/rednebula100/axiom-incremental)** - An incremental game based on orbital mechanics. 
+  [![Play](https://img.shields.io/badge/-Play%20Now-success?style=flat-square&logo=google-play&logoColor=white)](https://rednebula100.github.io/axiom-incremental/)
+
+- ☄️ **[EXOPLANET](https://github.com/rednebula100/EXOPLANET)** - WebGL-based celestial mechanics simulator.
+  [![View](https://img.shields.io/badge/-View%20Project-blue?style=flat-square&logo=webgl&logoColor=white)](https://rednebula100.github.io/EXOPLANET/)
+
+- 🌀 **[deep-fractal-explorer](https://github.com/rednebula100/deep-fractal-explorer)** - 3D Mandelbulb & Fractal Explorer using Three.js and GLSL Raymarching.
+  [![Explore](https://img.shields.io/badge/-Explore-rebeccapurple?style=flat-square&logo=three.js&logoColor=white)](https://rednebula100.github.io/deep-fractal-explorer/)
+
 ---
 
 <p align="center">
