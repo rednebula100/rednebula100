@@ -16,8 +16,9 @@
 </p>
 
 ## 🛠️ My Projects
-- 🪐 **[Axiom](https://github.com/rednebula100/Axiom)** - An incremental game based on orbital mechanics.
-
+- 🪐 **[Axiom](https://github.com/rednebula100/Axiom)** - An incremental game based on orbital mechanics. 
+  [![Play](https://img.shields.io/badge/-Play%20Now-success?style=flat-square&logo=google-play&logoColor=white)](https://rednebula100.github.io/axiom-incremental)
+  
 ---
 
 <p align="center">
