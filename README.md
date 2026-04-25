@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./logo.png" width="700" alt="rednebula100 Personal Logo">
+  <img src="./logo.png?v=2" width="700" alt="rednebula100 Personal Logo">
 </p>
 
 - 🔭 I’m currently working on **Incremental Games**
