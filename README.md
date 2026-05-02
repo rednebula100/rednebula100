@@ -4,10 +4,6 @@
   <img src="./logo.png?v=2" width="700" alt="rednebula100 Personal Logo">
 </p>
 
-- 🔭 I’m currently working on **Incremental Games**
-- 🌱 I’m currently learning **JavaScript**
-- ⚡ Fun fact: I'm a high school student in Korea 🇰🇷
-
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
